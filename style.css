@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lato", sans-serif;
+}
+#logo{
+    height: 100px;
+    width: 100%;
+}
+#about{
+    margin-top: 20px;
+    display: flex;
+    padding: 5px;
+}
+#para{
+    margin-left: 10%;
+    /* margin-bottom: 600px; */
+    justify-content: center;
+    text-align:justify
+}
+#photo h1{
+    text-align: center;
+    /* margin-bottom: 50px; */
+    margin-top: -350px;
+}
