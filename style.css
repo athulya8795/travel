@@ -7,6 +7,9 @@
     height: 100px;
     width: 100%;
 }
+#nav li a:hover{
+color: red;
+}
 #about{
     margin-top: 2px;
     display: flex;
@@ -36,4 +39,7 @@
     height:490px ;
     padding-top: 2%;
     padding-left: 4%;
+}
+html{
+    scroll-behavior: smooth;
 }
